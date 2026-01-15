@@ -1,0 +1,7 @@
+project_id = "rmofahiurtxqayhxasqn"
+
+[functions.create-midtrans-transaction]
+verify_jwt = false
+
+[functions.midtrans-webhook]
+verify_jwt = false
